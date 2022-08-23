@@ -1,3 +1,5 @@
+![](https://github.com/9dubs/test/blob/main/pewdiepiewavy.gif)
+
 ### Ahoy, I'm Akash 👋
 
 - Currently pursuing Computer Engineering

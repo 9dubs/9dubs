@@ -16,5 +16,5 @@ I'm proficient in,
 I'm currently learning,
 - Rust
 
-- And I'm currently working on Music Genre Classifier ;)
+And I'm currently working on Music Genre Classifier ;)
 

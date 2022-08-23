@@ -14,8 +14,7 @@ I'm proficient in,
 - C
 
 I'm currently learning,
-- Django
 - Rust
-- Vue
 
+- And I'm currently working on Music Genre Classifier ;)
 

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src=https://github.com/9dubs/test/blob/main/pewdiepiewavy.gif width=1000 height=300></img>
+  <img src=https://github.com/9dubs/test/blob/main/pewdiepiewavy.gif width=800 height=300></img>
 </div>
 
-### 👋 Ahoy, I'm Akash
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Ahoy! It's Akash
 
 - Currently pursuing Computer Engineering
 - Backend Developer

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/9dubs/test/blob/main/pewdiepiewavy.gif width=700 height=200></img>
+  <img src=https://github.com/9dubs/test/blob/main/pewdiepiewavy.gif width=700 height=250></img>
 </div>
 
 # Ahoy! It's Akash
